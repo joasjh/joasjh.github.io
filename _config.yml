@@ -6,40 +6,40 @@ theme: jekyll-theme-chirpy
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: en
+lang: ko-KR
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone: Asia/Shanghai
+timezone: Asia/Seoul
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: SOILatte # 좌상단 아바타 밑에 큰 글씨
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Dev Blog # title 밑에 글씨
 
-description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+description: >- # 검색어를 위한 설정
+  소이라떼
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://joasjh.github.io" # 본인 Git 블로그 주소에 맞게 변경
 
 github:
-  username: github_username # change to your GitHub username
+  username: joasjh # 본인 github 이름, 좌하단 링크 정보에서 사용됨
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: joasjh # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: joasjh # 하단 Footer에서 사용됨 (Powered by 있는곳)
+  email: joasjh7@gmail.com # 본인 이메일 주소, 좌하단 링크 정보에서 사용됨
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://twitter.com/joasjh # change to your Twitter homepage
+    - https://github.com/joasjh # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
